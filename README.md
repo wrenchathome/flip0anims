@@ -12,6 +12,7 @@ INSTALLATION:
 2. Copy the extracted folder to your Flipper's dolphin folder
 
 3. Add the text block for the animation you want to your flippers manifest.txt file located in the dolphin folder
+
 (If you downloaded all zips, you can just copy the content from the manifest.txt file in this repo to and add it to yours)
 
 4. ???
