@@ -2,7 +2,7 @@
 
 ![Alt Text](https://i.imgur.com/WrE9iz8.png)
 
-My custom made flipperzero animations for my upcoming personal custom firmware 
+My custom made flipperzero animations inspired by WD2/DedSec for my upcoming personal custom firmware 
 
 
 INSTALLATION:
