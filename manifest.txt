@@ -1,3 +1,10 @@
+Name: L1_BOMBS_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
 Name: L1_SPIRAL_128x64
 Min butthurt: 0
 Max butthurt: 10
