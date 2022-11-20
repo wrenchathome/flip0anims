@@ -24,6 +24,10 @@ L1_Finger_128x64
 
 ![Alt Text](https://i.imgur.com/3SyTQHh.gif)
 
+L1_BOMBS_128x64
+
+![Alt Text](https://i.imgur.com/eloC3Zw.gif)
+
 L1_SPIRAL_128x64
 
 ![Alt Text](https://i.imgur.com/2Lmm3LZ.gif)
@@ -40,6 +44,3 @@ L1_JOINUS_SR_128x64 (Credits for the graphic to: SR VRAXX#7328)
 
 ![Alt Text](https://i.imgur.com/1i9mJZg.gif)
 
-L1_BOMBS_128x64
-
-![Alt Text](https://i.imgur.com/eloC3Zw.gif)
