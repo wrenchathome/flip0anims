@@ -20,7 +20,7 @@ INSTALLATION:
 5. Enjoy!
 
 
-L1_BOTTY:CALL_128x64
+L1_BOTTY_CALL_128x64
 
 ![Alt Text](https://i.imgur.com/i5gbmqv.gif)
 
