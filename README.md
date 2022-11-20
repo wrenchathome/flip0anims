@@ -20,7 +20,12 @@ INSTALLATION:
 5. Enjoy!
 
 
-L1_Finger_128x64
+L1_BOTTY:CALL_128x64
+
+![Alt Text](https://i.imgur.com/i5gbmqv.gif)
+
+
+L1_FINGER_128x64
 
 ![Alt Text](https://i.imgur.com/3SyTQHh.gif)
 
