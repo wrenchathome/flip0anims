@@ -49,3 +49,20 @@ L1_JOINUS_SR_128x64 (Credits for the graphic to: SR VRAXX#7328)
 
 ![Alt Text](https://i.imgur.com/1i9mJZg.gif)
 
+
+
+##-------------------
+
+ALTERNATIVE VERSIONS
+
+##--------------------
+
+L1_JOIN_US_ALT_128x64
+
+![Alt Text](https://i.imgur.com/95KtGSN.gif)
+
+L1_BOTTY_ALT_128x64
+
+![Alt Text](https://i.imgur.com/dpm23WO.gif)
+
+
