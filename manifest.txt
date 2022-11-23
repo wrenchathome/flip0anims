@@ -46,3 +46,67 @@ Max butthurt: 10
 Min level: 1
 Max level: 3
 Weight: 3
+
+Name: L1_BOTTY_ALT_SR_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_JOIN_US_ALT_SR_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_DEDSEC1_SR_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_BONK_SR_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_GALAXYBRAIN_SR_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_HAUNTER_SR_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_SMEARGLE_SR_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_PIKACHU_SR_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: L1_POKEMON_WALK_SR_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+
