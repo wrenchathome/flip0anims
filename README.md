@@ -87,6 +87,7 @@ L1_GALAXYBRAIN_128x64
 ![Alt Text](https://i.imgur.com/Vo7YgLH.gif)
 
 L1_SMEARGLE_128x64
+
 ![Alt Text](https://i.imgur.com/TLc6p64.gif)
 
 L1_HAUNTER_128x64
