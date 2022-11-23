@@ -51,6 +51,7 @@ L1_JOINUS_SR_128x64 (Credits for the graphic to: SR VRAXX#7328)
 ![Alt Text](https://i.imgur.com/1i9mJZg.gif)
 
 L1_DEDSEC1_128x64
+
 ![Alt Text](https://i.imgur.com/SFM7mmq.gif)
 
 
