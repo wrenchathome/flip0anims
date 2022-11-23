@@ -1,8 +1,9 @@
 # flip0anims
 
-![Alt Text](https://i.imgur.com/WrE9iz8.png)
+![Alt Text](https://i.imgur.com/M30uHou.png)
 
-My custom made flipperzero animations inspired by WD2/DedSec for my upcoming personal custom firmware 
+My custom made background animations for the FlipperZero.
+
 
 
 INSTALLATION:
@@ -49,6 +50,9 @@ L1_JOINUS_SR_128x64 (Credits for the graphic to: SR VRAXX#7328)
 
 ![Alt Text](https://i.imgur.com/1i9mJZg.gif)
 
+L1_DEDSEC1_128x64
+![Alt Text](https://i.imgur.com/SFM7mmq.gif)
+
 
 
 ##-------------------
@@ -65,4 +69,28 @@ L1_BOTTY_ALT_128x64 (no
 
 ![Alt Text](https://i.imgur.com/dpm23WO.gif)
 
+
+#---------------------
+Other graphics:
+
+L1_SOUTHPARK_128x64
+![Alt Text](https://i.imgur.com/FsIBBh7.png)
+
+L1_BONK_128x64
+![Alt Text](https://i.imgur.com/jBLXgF6.gif)
+
+L1_GALAXYBRAIN_128x64
+![Alt Text](https://i.imgur.com/Vo7YgLH.gif)
+
+L1_SMEARGLE_128x64
+![Alt Text](https://i.imgur.com/TLc6p64.gif)
+
+L1_HAUNTER_128x64
+![Alt Text](https://i.imgur.com/oUjU6uC.gif)
+
+L1_PIKACHU_128x64
+![Alt Text](https://i.imgur.com/kT9gooZ.gif)
+
+L1_POKEMON_WALK_128x64
+![Alt Text](https://i.imgur.com/CLJctm2.gif)
 
