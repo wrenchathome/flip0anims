@@ -41,14 +41,14 @@ Min butthurt: 0
 Max butthurt: 10
 Min level: 1
 Max level: 3
-Weight: 3
+Weight: 4
 
 Name: L1_JOINUS_SR_128x64
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
 Max level: 3
-Weight: 3
+Weight: 4
 
 Name: L1_BOTTY_ALT_128x64
 Min butthurt: 0
@@ -62,54 +62,53 @@ Min butthurt: 0
 Max butthurt: 10
 Min level: 1
 Max level: 3
-Weight: 3
+Weight: 4
 
 Name: L1_DEDSEC1_128x64
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
 Max level: 3
-Weight: 3
+Weight: 4
 
 Name: L1_BONK_128x64
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
 Max level: 3
-Weight: 3
+Weight: 4
 
 Name: L1_GALAXYBRAIN_128x64
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
 Max level: 3
-Weight: 3
+Weight: 4
 
 Name: L1_HAUNTER_128x64
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
 Max level: 3
-Weight: 3
+Weight: 4
 
 Name: L1_SMEARGLE_128x64
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
 Max level: 3
-Weight: 3
+Weight: 4
 
 Name: L1_PIKACHU_128x64
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
 Max level: 3
-Weight: 3
+Weight: 4
 
 Name: L1_POKEMON_WALK_128x64
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
 Max level: 3
-Weight: 3
-
+Weight: 4
