@@ -2,7 +2,7 @@
 
 ![Alt Text](https://i.imgur.com/M30uHou.png)
 
-My custom made background animations for the FlipperZero.
+My custom made background graphics for the FlipperZero.
 
 
 
