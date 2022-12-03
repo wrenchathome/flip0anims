@@ -20,7 +20,7 @@ INSTALLATION:
 
 5. Enjoy!
 
-
+#--------
 "Watch_Dogs 2" DEDSEC inspired graphics (mainly to be used in my upcoming CustomFirmWare)
 
 L1_BOTTY_CALL_128x64
@@ -81,13 +81,10 @@ L1_SOUTHPARK_128x64
 
 ![Alt Text](https://i.imgur.com/FsIBBh7.png)
 
-L1_BONK_128x64
 
-![Alt Text](https://i.imgur.com/jBLXgF6.gif)
+L1_POKEMON_WALK_128x64
 
-L1_GALAXYBRAIN_128x64
-
-![Alt Text](https://i.imgur.com/Vo7YgLH.gif)
+![Alt Text](https://i.imgur.com/CLJctm2.gif)
 
 L1_SMEARGLE_128x64
 
@@ -101,7 +98,10 @@ L1_PIKACHU_128x64
 
 ![Alt Text](https://i.imgur.com/kT9gooZ.gif)
 
-L1_POKEMON_WALK_128x64
+L1_BONK_128x64
 
-![Alt Text](https://i.imgur.com/CLJctm2.gif)
+![Alt Text](https://i.imgur.com/jBLXgF6.gif)
 
+L1_GALAXYBRAIN_128x64
+
+![Alt Text](https://i.imgur.com/Vo7YgLH.gif)
