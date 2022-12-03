@@ -21,10 +21,11 @@ INSTALLATION:
 5. Enjoy!
 
 
+"Watch_Dogs 2" DEDSEC inspired graphics (mainly to be used in my upcoming CustomFirmWare)
+
 L1_BOTTY_CALL_128x64
 
 ![Alt Text](https://i.imgur.com/Vht3Iqq.gif)
-
 
 L1_FINGER_128x64
 
@@ -74,7 +75,7 @@ L1_BOTTY_ALT_128x64
 
 
 #---------------------
-Other graphics:
+Other graphics, which have been requested by people in the community
 
 L1_SOUTHPARK_128x64
 
