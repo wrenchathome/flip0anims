@@ -76,12 +76,12 @@ L1_BOTTY_ALT_128x64
 
 
 #---------------------
+
 Other graphics, which have been requested by people in the community
 
 L1_SOUTHPARK_128x64
 
 ![Alt Text](https://i.imgur.com/FsIBBh7.png)
-
 
 L1_POKEMON_WALK_128x64
 
