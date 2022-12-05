@@ -20,6 +20,8 @@ INSTALLATION:
 
 5. Enjoy!
 
+Should you need help downloading the files from github and/or to your flipper, check out this guide i wrote for the [Flipperzero discord server](https://discord.com/channels/740930220399525928/986635575664726026/1042979075905556520), or feel free to reach out to me there
+
 #--------
 
 "Watch_Dogs 2" DEDSEC inspired graphics (mainly to be used in my upcoming CustomFirmWare)
