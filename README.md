@@ -79,7 +79,7 @@ L1_BOTTY_ALT_128x64
 
 #---------------------
 
-Other graphics, which have been requested by people in the community
+Other graphics, which partly have been requested by people in the community
 
 L1_JILL_HOME_128x64
 
