@@ -81,6 +81,9 @@ L1_BOTTY_ALT_128x64
 
 Other graphics, which have been requested by people in the community
 
+L1_JILL_HOME_128x64
+![Alt Text](https://i.imgur.com/RclYjGj.gif)
+
 L1_ANNA_GLITCH_128x64
 
 ![Alt Text](https://i.imgur.com/GGmjd6b.gif)
