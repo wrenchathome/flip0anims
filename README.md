@@ -89,6 +89,10 @@ L1_ANNA_GLITCH_128x64
 
 ![Alt Text](https://i.imgur.com/GGmjd6b.gif)
 
+L1_SPACEINVADERS_128x64
+
+![Alt Text](https://i.imgur.com/VqRepYw.gif)
+
 L1_SOUTHPARK_128x64
 
 ![Alt Text](https://i.imgur.com/FsIBBh7.png)
@@ -116,3 +120,7 @@ L1_BONK_128x64
 L1_GALAXYBRAIN_128x64
 
 ![Alt Text](https://i.imgur.com/Vo7YgLH.gif)
+
+L1_TAPPINGHEAD_128x64
+
+![Alt Text](https://i.imgur.com/0yVnlcI.png)
