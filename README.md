@@ -84,6 +84,12 @@ OTHER GRAPHICS
 
 #---------------------
 
+#---------------------
+
+GENERIC STUFF
+
+#---------------------
+
 L1_ERROR_128x64
 
 ![Alt Text](https://i.imgur.com/p4YPrNy.gif)
@@ -94,17 +100,10 @@ L1_ERROR_INV_128x64
 
 #---------------------
 
-GENERIC STUFF
-
-#---------------------
-
-
-
-#---------------------
-
 VA11 Ha11-A
 
 #---------------------
+
 L1_JILL_HOME_128x64
 
 ![Alt Text](https://i.imgur.com/RclYjGj.gif)
