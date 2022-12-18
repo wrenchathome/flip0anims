@@ -24,7 +24,8 @@ Should you need help downloading the files from github and/or to your flipper, c
 
 #--------
 
-"Watch_Dogs 2" DEDSEC inspired graphics (mainly to be used in my upcoming CustomFirmWare)
+"Watch_Dogs 2" DEDSEC inspired graphics
+#---------------------
 
 L1_BOTTY_CALL_128x64
 
@@ -79,8 +80,31 @@ L1_BOTTY_ALT_128x64
 
 #---------------------
 
-Other graphics, which partly have been requested by people in the community
+OTHER GRAPHICS
 
+#---------------------
+
+L1_ERROR_128x64
+
+![Alt Text](https://i.imgur.com/p4YPrNy.gif)
+
+L1_ERROR_INV_128x64
+
+![Alt Text](https://i.imgur.com/UFowSU4.gif)
+
+#---------------------
+
+GENERIC STUFF
+
+#---------------------
+
+
+
+#---------------------
+
+VA11 Ha11-A
+
+#---------------------
 L1_JILL_HOME_128x64
 
 ![Alt Text](https://i.imgur.com/RclYjGj.gif)
@@ -89,6 +113,11 @@ L1_ANNA_GLITCH_128x64
 
 ![Alt Text](https://i.imgur.com/GGmjd6b.gif)
 
+#---------------------
+
+Other Retro Game related Graphics
+
+#---------------------
 L1_SPACEINVADERS_128x64
 
 ![Alt Text](https://i.imgur.com/VqRepYw.gif)
@@ -113,6 +142,16 @@ L1_PIKACHU_128x64
 
 ![Alt Text](https://i.imgur.com/kT9gooZ.gif)
 
+#---------------------
+
+Memes
+
+#---------------------
+
+L1_TAPPINGHEAD_128x64
+
+![Alt Text](https://i.imgur.com/0yVnlcI.png)
+
 L1_BONK_128x64
 
 ![Alt Text](https://i.imgur.com/jBLXgF6.gif)
@@ -121,6 +160,3 @@ L1_GALAXYBRAIN_128x64
 
 ![Alt Text](https://i.imgur.com/Vo7YgLH.gif)
 
-L1_TAPPINGHEAD_128x64
-
-![Alt Text](https://i.imgur.com/0yVnlcI.png)
