@@ -153,6 +153,10 @@ L1_TAPPINGHEAD_128x64
 
 ![Alt Text](https://i.imgur.com/0yVnlcI.png)
 
+L1_BIRB_128x64
+
+![Alt Text](https://i.imgur.com/lMTXVSg.gif)
+
 L1_BONK_128x64
 
 ![Alt Text](https://i.imgur.com/jBLXgF6.gif)
