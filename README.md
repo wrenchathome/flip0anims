@@ -167,7 +167,7 @@ L1_GALAXYBRAIN_128x64
 
 #---------------------
 
-WIP / UNFINISHED  (Not uploaded yet)
+WIP / UNFINISHED  (some not uploaded yet)
 
 #---------------------
 
