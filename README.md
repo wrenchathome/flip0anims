@@ -171,6 +171,10 @@ WIP / UNFINISHED  (Not uploaded yet)
 
 #---------------------
 
+L1_HACKERMAN_128x64
+
+![Alt Text](https://i.imgur.com/REQR3DS.png)
+
 L1_GARFIELD_128x64
 
 ![Alt Text](https://i.imgur.com/ElteTRe.png)
