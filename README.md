@@ -127,10 +127,6 @@ L1_SPACEINVADERS_128x64
 
 ![Alt Text](https://i.imgur.com/VqRepYw.gif)
 
-L1_SOUTHPARK_128x64
-
-![Alt Text](https://i.imgur.com/FsIBBh7.png)
-
 L1_POKEMON_WALK_128x64
 
 ![Alt Text](https://i.imgur.com/CLJctm2.gif)
@@ -168,4 +164,26 @@ L1_BONK_128x64
 L1_GALAXYBRAIN_128x64
 
 ![Alt Text](https://i.imgur.com/Vo7YgLH.gif)
+
+#---------------------
+
+WIP / UNFINISHED  (Not uploaded yet)
+
+#---------------------
+
+L1_GARFIELD_128x64
+
+![Alt Text](https://i.imgur.com/FsIBBh7.png)
+
+L1_SOUTHPARK_128x64
+
+![Alt Text](https://i.imgur.com/ElteTRe.png)
+
+L1_SPONGEBOBDOLPHIN_128x64
+
+![Alt Text](https://i.imgur.com/KbkfmF7.png)
+
+L1_SPONGEBOBXD_128x64
+
+![Alt Text](https://i.imgur.com/7eTYehx.png)
 
