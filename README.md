@@ -173,11 +173,11 @@ WIP / UNFINISHED  (Not uploaded yet)
 
 L1_GARFIELD_128x64
 
-![Alt Text](https://i.imgur.com/FsIBBh7.png)
+![Alt Text](https://i.imgur.com/ElteTRe.png)
 
 L1_SOUTHPARK_128x64
 
-![Alt Text](https://i.imgur.com/ElteTRe.png)
+![Alt Text](https://i.imgur.com/FsIBBh7.png)
 
 L1_SPONGEBOBDOLPHIN_128x64
 
