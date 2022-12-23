@@ -1,7 +1,7 @@
 # flip0anims
 
 ![Alt Text](https://i.imgur.com/n0R1dyN.png)
-#![Alt Text](https://i.imgur.com/M30uHou.png)
+<!---![Alt Text](https://i.imgur.com/M30uHou.png)--->
 
 My custom made background graphics for the FlipperZero.
 
