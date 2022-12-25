@@ -46,7 +46,11 @@ Weight: 3
 
 Should you need help downloading the files from github and/or to your flipper, check out this guide i wrote for the [Flipperzero discord server](https://discord.com/channels/740930220399525928/986635575664726026/1042979075905556520), or feel free to reach out to me there
 
-#--------
+#---------------------
+
+ALL AVAILABLE ANIMATIONS:
+
+#---------------------
 
 "Watch_Dogs 2" DEDSEC inspired graphics
 
