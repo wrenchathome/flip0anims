@@ -12,6 +12,17 @@ numgen.py is a super short python script to generate the frame numbers for the m
 
 INSTALLATION:
 
+EASY-INSTALL DEDSEC ONLY ANIMATIONS:
+
+1. Download the dedsec.zip from the preconfigured folder
+
+2. copy the dolphin folder to your flippers sdcard and make sure to overwrite the manifest.txt, or better yet, rename yours to something else to keep as a backup
+
+3. reboot flipper (either hold LEFT and BACK for 3 Seconds, or go to Settings > Power > Reboot > Flipper OS)
+
+
+MANUAL
+
 1. Download the Zip file for the animation you want and extract it.
 
 2. Copy the extracted folder to your Flipper's dolphin folder
