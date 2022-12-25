@@ -185,6 +185,11 @@ L1_HACKERMAN_128x64
 
 ![Alt Text](https://i.imgur.com/AlftWl4.gif)
 
+L1_HACKERMAN_ALT_128x64
+
+![Alt Text](https://i.imgur.com/dqhfO62.gif)
+
+
 L1_TAPPINGHEAD_128x64
 
 ![Alt Text](https://i.imgur.com/0yVnlcI.png)
