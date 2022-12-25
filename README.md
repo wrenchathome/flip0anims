@@ -131,6 +131,10 @@ L1_SPACEINVADERS_128x64
 
 ![Alt Text](https://i.imgur.com/VqRepYw.gif)
 
+L1_SPACEINVADERS_INV_128x64
+
+![Alt Text](https://i.imgur.com/JvEdYBT.gif)
+
 L1_POKEMON_WALK_128x64
 
 ![Alt Text](https://i.imgur.com/CLJctm2.gif)
