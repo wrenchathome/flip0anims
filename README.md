@@ -117,9 +117,21 @@ OTHER GRAPHICS
 
 #---------------------
 
+MR ROBOT
+
 #---------------------
 
-GENERIC STUFF
+L1_MRROBOT_128x64
+
+![Alt Text](https://i.imgur.com/ppMK74O.png)
+
+L1_FSOCIETY_128x64
+
+![Alt Text](https://i.imgur.com/ALb34vh.gif)
+
+#---------------------
+
+OTHER STUFF
 
 #---------------------
 
@@ -147,9 +159,12 @@ L1_ANNA_GLITCH_128x64
 
 #---------------------
 
-Other Retro Game related Graphics
+Other Game and Movie/Show related Graphics
 
 #---------------------
+
+L1_MOONINITE_128x64
+![Alt Text](https://i.imgur.com/qH2Qao7.gif)
 
 L1_SPACEINVADERS_128x64
 
