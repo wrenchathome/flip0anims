@@ -53,11 +53,8 @@ Should you need help downloading the files from github and/or to your flipper, c
 #---------------------
 
 L1_WATCHDOGS_128x64
-
 ![Alt Text](https://i.imgur.com/SFJC9tG.gif)
-
 L1_BOTTY_CALL_128x64
-
 ![Alt Text](https://i.imgur.com/Vht3Iqq.gif)
 
 L1_FINGER_128x64
