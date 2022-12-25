@@ -18,7 +18,16 @@ INSTALLATION:
 
 3. Add the text block for the animation you want to your flippers manifest.txt file located in the dolphin folder
 
-(If you downloaded all zips, you can just copy the content from the manifest.txt file in this repo to and add it to yours)
+```
+#For the L1_FINGER_128x64 Animation as an example, add this textblock to your manifest.txt
+
+Name: L1_FINGER_128x64
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 3
+Weight: 3
+```
 
 4. Reboot flipper (either hold LEFT and BACK for 3 Seconds, or go to Settings > Power > Reboot > Flipper OS)
 
