@@ -157,6 +157,10 @@ Memes
 
 #---------------------
 
+L1_HACKERMAN_128x64
+
+![Alt Text](https://i.imgur.com/AlftWl4.gif)
+
 L1_TAPPINGHEAD_128x64
 
 ![Alt Text](https://i.imgur.com/0yVnlcI.png)
@@ -178,10 +182,6 @@ L1_GALAXYBRAIN_128x64
 WIP / UNFINISHED  (some not uploaded yet)
 
 #---------------------
-
-L1_HACKERMAN_128x64
-
-![Alt Text](https://i.imgur.com/REQR3DS.png)
 
 L1_GARFIELD_128x64
 
