@@ -50,7 +50,7 @@ L1_BOMBS_128x64
 
 L1_SPIRAL_128x64
 
-![Alt Text](https://i.imgur.com/2Lmm3LZ.gif)
+![Alt Text](https://i.imgur.com/ySgbNTd.gif)
 
 L1_MUMMY_128x64
 
