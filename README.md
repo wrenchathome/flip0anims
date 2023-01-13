@@ -107,6 +107,10 @@ ALTERNATIVE VERSIONS
 
 ##--------------------
 
+L1_DEDSEC_LOGO_INV_128x64
+
+![Alt Text](https://i.imgur.com/qIO6KBn.gif)
+
 L1_JOIN_US_ALT_128x64
 
 ![Alt Text](https://i.imgur.com/95KtGSN.gif)
