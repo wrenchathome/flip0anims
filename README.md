@@ -176,6 +176,14 @@ Other Game and Movie/Show related Graphics
 
 #---------------------
 
+L1_BURNS_128x64
+
+![Alt Text](https://i.imgur.com/TnEtABI.gif)
+
+L1_BURNSINV_128x64
+
+![Alt Text](https://i.imgur.com/CmxilaZ.gif)
+
 L1_PIPBOY_SHOVEL_128x64
 
 ![Alt Text](https://i.imgur.com/oWTq8Ya.gif)
