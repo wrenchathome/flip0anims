@@ -93,6 +93,10 @@ L1_JOINUS_SR_128x64 (Credits for the graphic to: SR VRAXX#7328)
 
 ![Alt Text](https://i.imgur.com/1i9mJZg.gif)
 
+L1_DEDSEC2_128x64
+
+![Alt Text](https://i.imgur.com/d1qR812.gif)
+
 L1_DEDSEC1_128x64
 
 ![Alt Text](https://i.imgur.com/SFM7mmq.gif)
@@ -171,6 +175,10 @@ L1_ANNA_GLITCH_128x64
 Other Game and Movie/Show related Graphics
 
 #---------------------
+
+L1_PIPBOY_SHOVEL_128x64
+
+![Alt Text](https://i.imgur.com/oWTq8Ya.gif)
 
 L1_MOONINITE_128x64
 
