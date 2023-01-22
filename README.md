@@ -141,6 +141,11 @@ R3_MESS_128x64
 
 ![Alt Text](https://i.imgur.com/IdB5GYp.gif)
 
+
+R3_GCHTP
+
+![Alt Text](https://i.imgur.com/Z8Thl7C.png)
+
 #---------------------
 
 MR ROBOT
