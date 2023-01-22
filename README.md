@@ -4,7 +4,8 @@
 <!---![Alt Text](https://i.imgur.com/M30uHou.png)--->
 
 My custom made background graphics for the FlipperZero.
-b
+
+
 PS: Some of my animations are featured in [DEXV's Zero firmware!](https://github.com/DXVVAY/Dexv0)
 
 
