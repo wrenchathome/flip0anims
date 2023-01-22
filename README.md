@@ -5,17 +5,14 @@
 
 My custom made background graphics for the FlipperZero.
 
-
-PS: Some of my animations are featured in [DEXV's Zero firmware!](https://github.com/DXVVAY/Dexv0)
-
-
 Curious how to make your own? Check out [TalkingSasquatch's Guide!](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub)  
 
 Should you need help downloading files from GitHub and/or to your Flipper, check out this [guide i wrote](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf)
 
-numgen.py is a super short python script to generate the frame numbers for the meta.txt
+numgen.py is a super short python script i use to generate the frame numbers for the meta.txt
 
 
+Check out [DEXV's Zero firmware!](https://github.com/DXVVAY/Dexv0) which features some of my animations!
 
 
 INSTALLATION:
