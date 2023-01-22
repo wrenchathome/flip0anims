@@ -130,6 +130,16 @@ OTHER GRAPHICS
 
 #---------------------
 
+HACKERS
+
+#---------------------
+
+R3_MESS_128x64
+
+![Alt Text](https://i.imgur.com/IdB5GYp.gif)
+
+#---------------------
+
 MR ROBOT
 
 #---------------------
