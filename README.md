@@ -11,6 +11,9 @@ Should you need help downloading files from GitHub and/or to your Flipper, check
 
 numgen.py is a super short python script to generate the frame numbers for the meta.txt
 
+PS: Some of my animations are featured in [DEXV's Zero firmware!](https://github.com/DXVVAY/Dexv0)
+
+
 
 INSTALLATION:
 
