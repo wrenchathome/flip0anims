@@ -2,10 +2,10 @@
 
 ![Alt Text](https://i.imgur.com/n0R1dyN.png)
 <!---![Alt Text](https://i.imgur.com/M30uHou.png)--->
-PS: Some of my animations are featured in [DEXV's Zero firmware!](https://github.com/DXVVAY/Dexv0)
-
 
 My custom made background graphics for the FlipperZero.
+PS: Some of my animations are featured in [DEXV's Zero firmware!](https://github.com/DXVVAY/Dexv0)
+
 
 Curious how to make your own? Check out [TalkingSasquatch's Guide!](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub)  
 
