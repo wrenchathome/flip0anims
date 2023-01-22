@@ -198,6 +198,10 @@ R3_NES
 
 ![Alt Text](https://i.imgur.com/QWvSVNu.png)
 
+R3_MASTERSYSTEM
+
+![Alt Text](https://i.imgur.com/cVpo1ck.png)
+
 L1_BURNS_128x64
 
 ![Alt Text](https://i.imgur.com/TnEtABI.gif)
