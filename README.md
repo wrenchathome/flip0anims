@@ -141,6 +141,9 @@ R3_MESS_128x64
 
 ![Alt Text](https://i.imgur.com/IdB5GYp.gif)
 
+R3_COOKIE
+
+![Alt Text](https://i.imgur.com/4W8hi36.gif)
 
 R3_GCHTP
 
