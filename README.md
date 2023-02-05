@@ -11,8 +11,7 @@ Should you need help downloading files from GitHub and/or to your Flipper, check
 
 numgen.py is a super short python script i use to generate the frame numbers for the meta.txt
 
-
-Check out [DEXV's Zero firmware](https://github.com/DXVVAY/Dexv0) which features some of my animations!
+Some of my animations are now included in [DEXV0](https://github.com/DXVVAY/Dexv0), [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) and [XTreme Firmware](https://github.com/ClaraCrazy/Flipper-Xtreme)
 
 
 INSTALLATION:
