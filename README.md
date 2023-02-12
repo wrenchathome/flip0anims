@@ -63,6 +63,10 @@ L1_WATCHDOGS_128x64
 
 ![Alt Text](https://i.imgur.com/SFJC9tG.gif)
 
+R3_DEFALT
+
+![Alt Text](https://i.imgur.com/1C9svi7.gif)
+
 L1_DEDSEC_LOGO_128x64
 
 ![Alt Text](https://i.imgur.com/jRvFqTN.gif)
@@ -112,6 +116,10 @@ L1_VIRUS_128x64
 ALTERNATIVE VERSIONS
 
 ##--------------------
+
+R3_DEFALT_INV
+
+![Alt Text](https://i.imgur.com/F9VuAjq.gif)
 
 L1_DEDSEC_LOGO_INV_128x64
 
