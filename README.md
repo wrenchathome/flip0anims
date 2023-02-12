@@ -55,7 +55,7 @@ ALL AVAILABLE ANIMATIONS:
 
 #---------------------
 
-"Watch_Dogs 2" DEDSEC inspired graphics
+Watch_Dogs DEDSEC inspired graphics
 
 #---------------------
 
