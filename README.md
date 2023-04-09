@@ -11,6 +11,9 @@ Should you need help downloading files from GitHub and/or to your Flipper, check
 (https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf)
 
 
+
+FLIPPER 
+
 ![FlipClap](https://i.imgur.com/066WMqu.gif)
 ![F0Pattern](https://i.imgur.com/iHQHwRZ.gif)
 ![Flippah](https://i.imgur.com/MPQPLce.gif)
