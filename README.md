@@ -11,6 +11,9 @@ Should you need help downloading files from GitHub and/or to your Flipper, check
 (https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf)
 
 
+
+FLIPPER 
+
 ![FlipClap](https://i.imgur.com/066WMqu.gif)
 ![F0Pattern](https://i.imgur.com/iHQHwRZ.gif)
 ![Flippah](https://i.imgur.com/MPQPLce.gif)
@@ -55,6 +58,19 @@ MR ROBOT
 ![HACKERMAN](https://i.imgur.com/kUA2cv2.gif)
 ![HACKERMAN_ALT](https://i.imgur.com/fCvxqGJ.gif)
 
+BMO
+
+![BMO_laugh](https://i.imgur.com/iucIuQy.gif)
+
+![BMO_happy](https://i.imgur.com/4nGnqWW.gif)
+![BMO_hmm](https://i.imgur.com/khmcf6f.gif)
+![BMO_oo](https://i.imgur.com/B7P99Wq.gif)
+![BMO_hng](https://i.imgur.com/iZMzqVw.gif)
+
+![BMO_angy](https://i.imgur.com/QPF5pPL.gif)
+![BMO_smile](https://i.imgur.com/cxDRWIK.gif)
+![BMO_smirk](https://i.imgur.com/tafnUxo.gif)
+![BMO_yawn](https://i.imgur.com/HSmLEnZ.gif)
 
 POKEMON
 
