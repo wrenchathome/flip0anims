@@ -7,299 +7,94 @@ My custom made background graphics for the FlipperZero.
 
 Curious how to make your own? Check out [TalkingSasquatch's Guide!](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub)  
 
-Should you need help downloading files from GitHub and/or to your Flipper, check out this [guide i wrote](https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf)
-
-numgen.py is a super short python script i use to generate the frame numbers for the meta.txt
-
-
-INSTALLATION:
-
-EASY-INSTALL DEDSEC ONLY ANIMATIONS:
-
-1. Download the dedsec.zip from the preconfigured folder
-
-2. copy the dolphin folder to your flippers sdcard and make sure to overwrite the manifest.txt, or better yet, rename yours to something else to keep as a backup
-
-3. reboot flipper (either hold LEFT and BACK for 3 Seconds, or go to Settings > Power > Reboot > Flipper OS)
+Should you need help downloading files from GitHub and/or to your Flipper, check [my guide]
+(https://raw.githubusercontent.com/wrenchathome/flipperfiles/main/_Guides/How2Flipper.pdf)
 
 
-MANUAL
+![FlipClap](https://i.imgur.com/066WMqu.gif)
+![F0Pattern](https://i.imgur.com/iHQHwRZ.gif)
+![Flippah](https://i.imgur.com/MPQPLce.gif)
 
-1. Download the Zip file for the animation you want and extract it.
+WATCH_DOGS
 
-2. Copy the extracted folder to your Flipper's dolphin folder
+![WDANIM](https://i.imgur.com/FN4Dya7.gif)
 
-3. Add the text block for the animation you want to your flippers manifest.txt file located in the dolphin folder
-
-```
-#For the L1_FINGER_128x64 Animation as an example, add this textblock to your manifest.txt
-
-Name: L1_FINGER_128x64
-Min butthurt: 0
-Max butthurt: 18
-Min level: 1
-Max level: 3
-Weight: 3
-```
-
-4. Reboot flipper (either hold LEFT and BACK for 3 Seconds, or go to Settings > Power > Reboot > Flipper OS)
-
-5. Enjoy!
+![DEFALT](https://i.imgur.com/YPmLSpX.gif)
+![DSLOGO](https://i.imgur.com/Otms7k8.gif)
+![BOTTY](https://i.imgur.com/ta0yopz.gif)
+![JOINUS](https://i.imgur.com/8pVc1Mm.gif)
 
 
-#---------------------
+![DEFALTINV](https://i.imgur.com/K2rkpdX.gif)
+![DSLOGOINV](https://i.imgur.com/IvfnR6N.gif)
+![BOTTY_ALT](https://i.imgur.com/lks0H1Z.gif)
+![JOINUS_ALT](https://i.imgur.com/1k6JoXs.gif)
 
-ALL AVAILABLE ANIMATIONS:
-
-#---------------------
-
-Watch_Dogs DEDSEC inspired graphics
-
-#---------------------
-
-L1_WATCHDOGS_128x64
-
-![Alt Text](https://i.imgur.com/SFJC9tG.gif)
-
-R3_DEFALT
-
-![Alt Text](https://i.imgur.com/1C9svi7.gif)
-
-L1_DEDSEC_LOGO_128x64
-
-![Alt Text](https://i.imgur.com/jRvFqTN.gif)
-
-L1_BOTTY_CALL_128x64
-
-![Alt Text](https://i.imgur.com/Vht3Iqq.gif)
-
-L1_FINGER_128x64
-
-![Alt Text](https://i.imgur.com/3SyTQHh.gif)
-
-L1_BOMBS_128x64
-
-![Alt Text](https://i.imgur.com/eloC3Zw.gif)
-
-L1_SPIRAL_128x64
-
-![Alt Text](https://i.imgur.com/ySgbNTd.gif)
-
-L1_MUMMY_128x64
-
-![Alt Text](https://i.imgur.com/0dQvOhN.gif)
-
-L1_JOIN_US_128x64
-
-![Alt Text](https://i.imgur.com/ABDBPke.gif)
-
-L1_JOINUS_SR_128x64 (Credits for the graphic to: SR VRAXX#7328)
-
-![Alt Text](https://i.imgur.com/1i9mJZg.gif)
-
-L1_DEDSEC2_128x64
-
-![Alt Text](https://i.imgur.com/d1qR812.gif)
-
-L1_DEDSEC1_128x64
-
-![Alt Text](https://i.imgur.com/SFM7mmq.gif)
-
-L1_VIRUS_128x64
-
-![Alt Text](https://i.imgur.com/TuSFnql.png)
-
-##-------------------
-
-ALTERNATIVE VERSIONS
-
-##--------------------
-
-R3_DEFALT_INV
-
-![Alt Text](https://i.imgur.com/F9VuAjq.gif)
-
-L1_DEDSEC_LOGO_INV_128x64
-
-![Alt Text](https://i.imgur.com/qIO6KBn.gif)
-
-L1_JOIN_US_ALT_128x64
-
-![Alt Text](https://i.imgur.com/95KtGSN.gif)
-
-L1_BOTTY_ALT_128x64
-
-![Alt Text](https://i.imgur.com/dpm23WO.gif)
+![BOMBS](https://i.imgur.com/b4mey30.gif)
+![DSLOGO2](https://i.imgur.com/33sdw0k.gif)
+![FINGER](https://i.imgur.com/GhCnHuX.gif)
+![JOINUS_SR](https://i.imgur.com/VJQNyr0.gif)
 
 
-#---------------------
+![VIRUS](https://i.imgur.com/05Com4K.gif)
+![SPIRAL](https://i.imgur.com/v1sw6sG.gif)
+![DEDSEC](https://i.imgur.com/giG9J8m.gif)
+![MUMMY](https://i.imgur.com/OXmXnIw.gif)
 
-OTHER GRAPHICS
-
-#---------------------
 
 HACKERS
 
-#---------------------
-
-R3_MESS_128x64
-
-![Alt Text](https://i.imgur.com/IdB5GYp.gif)
-
-R3_COOKIE
-
-![Alt Text](https://i.imgur.com/4W8hi36.gif)
-
-R3_GCHTP
-
-![Alt Text](https://i.imgur.com/Z8Thl7C.png)
-
-#---------------------
+![MESS](https://i.imgur.com/I1XEuIK.gif)
+![COOKIE](https://i.imgur.com/ArgQcbC.gif)
+![GCHTP](https://i.imgur.com/7Zl8Z4P.gif)
 
 MR ROBOT
 
-#---------------------
+![MRROBOT](https://i.imgur.com/GpI8Ti5.gif)
+![FSOCIETY](https://i.imgur.com/87tf3RA.gif)
+![HACKERMAN](https://i.imgur.com/kUA2cv2.gif)
+![HACKERMAN_ALT](https://i.imgur.com/fCvxqGJ.gif)
 
-L1_MRROBOT_128x64
 
-![Alt Text](https://i.imgur.com/ppMK74O.png)
+POKEMON
 
-L1_FSOCIETY_128x64
+![PKMNWALK](https://i.imgur.com/CVrFkBm.gif)
+![SMEARGLE](https://i.imgur.com/86jWmmq.gif)
+![PIKACHU](https://i.imgur.com/XgZm5Ox.gif)
+![HAUNTER](https://i.imgur.com/Rg6WNZ0.gif)
 
-![Alt Text](https://i.imgur.com/ALb34vh.gif)
 
-#---------------------
+VA-11 HALL-A
 
-OTHER STUFF
+![JILL](https://i.imgur.com/qwlauaS.gif)
+![ANNA](https://i.imgur.com/c5oyBHf.gif)
 
-#---------------------
+OTHER/MISC
 
-L1_ERROR_128x64
+![ERROR](https://i.imgur.com/0tEtQ2L.gif)
+![SPACEINV](https://i.imgur.com/ArbZfQG.gif)
+![MASTERSYS](https://i.imgur.com/4VZrGTk.gif)
+![BURNS](https://i.imgur.com/uuB1i0x.gif)
 
-![Alt Text](https://i.imgur.com/p4YPrNy.gif)
+![ERROR_INV](https://i.imgur.com/Wd31oEL.gif)
+![SPACEINV_INV](https://i.imgur.com/H6Qn4oB.gif)
+![NES](https://i.imgur.com/7lMPOar.gif)
+![BURNS_INV](https://i.imgur.com/D7odGzK.gif)
 
-L1_ERROR_INV_128x64
+![MOONINITE](https://i.imgur.com/947SNci.gif)
+![PIPSHOVEL](https://i.imgur.com/UDR6GiN.gif)
+![SPONGEDOLPHIN](https://i.imgur.com/r2HIzJe.gif)
+![SPONGEXD](https://i.imgur.com/ocvcEpe.gif)
 
-![Alt Text](https://i.imgur.com/UFowSU4.gif)
+![GARFIELD](https://i.imgur.com/o230MDa.gif)
+![SOUTHPARK](https://i.imgur.com/xdEd6rF.gif)
 
-#---------------------
+MEMES
 
-VA11 Ha11-A
+![BIRB](https://i.imgur.com/ijVNUwv.gif)
+![BONK](https://i.imgur.com/E6hClBt.gif)
+![TAPPINGHEAD](https://i.imgur.com/yeTiwGm.gif)
+![GALAXYBRAIN](https://i.imgur.com/71aWYRc.gif)
 
-#---------------------
-
-L1_JILL_HOME_128x64
-
-![Alt Text](https://i.imgur.com/RclYjGj.gif)
-
-L1_ANNA_GLITCH_128x64
-
-![Alt Text](https://i.imgur.com/GGmjd6b.gif)
-
-#---------------------
-
-Other Game and Movie/Show related Graphics
-
-#---------------------
-
-R3_NES
-
-![Alt Text](https://i.imgur.com/QWvSVNu.png)
-
-R3_MASTERSYSTEM
-
-![Alt Text](https://i.imgur.com/cVpo1ck.png)
-
-L1_BURNS_128x64
-
-![Alt Text](https://i.imgur.com/TnEtABI.gif)
-
-L1_BURNSINV_128x64
-
-![Alt Text](https://i.imgur.com/CmxilaZ.gif)
-
-L1_PIPBOY_SHOVEL_128x64
-
-![Alt Text](https://i.imgur.com/oWTq8Ya.gif)
-
-L1_MOONINITE_128x64
-
-![Alt Text](https://i.imgur.com/qH2Qao7.gif)
-
-L1_SPACEINVADERS_128x64
-
-![Alt Text](https://i.imgur.com/VqRepYw.gif)
-
-L1_SPACEINVADERS_INV_128x64
-
-![Alt Text](https://i.imgur.com/JvEdYBT.gif)
-
-L1_POKEMON_WALK_128x64
-
-![Alt Text](https://i.imgur.com/CLJctm2.gif)
-
-L1_SMEARGLE_128x64
-
-![Alt Text](https://i.imgur.com/TLc6p64.gif)
-
-L1_HAUNTER_128x64
-
-![Alt Text](https://i.imgur.com/oUjU6uC.gif)
-
-L1_PIKACHU_128x64
-
-![Alt Text](https://i.imgur.com/kT9gooZ.gif)
-
-#---------------------
-
-Memes
-
-#---------------------
-
-L1_HACKERMAN_128x64
-
-![Alt Text](https://i.imgur.com/AlftWl4.gif)
-
-L1_HACKERMAN_ALT_128x64
-
-![Alt Text](https://i.imgur.com/dqhfO62.gif)
-
-
-L1_TAPPINGHEAD_128x64
-
-![Alt Text](https://i.imgur.com/0yVnlcI.png)
-
-L1_BIRB_128x64
-
-![Alt Text](https://i.imgur.com/lMTXVSg.gif)
-
-L1_BONK_128x64
-
-![Alt Text](https://i.imgur.com/jBLXgF6.gif)
-
-L1_GALAXYBRAIN_128x64
-
-![Alt Text](https://i.imgur.com/Vo7YgLH.gif)
-
-#---------------------
-
-WIP / UNFINISHED  (some not uploaded yet)
-
-#---------------------
-
-L1_GARFIELD_128x64
-
-![Alt Text](https://i.imgur.com/ElteTRe.png)
-
-L1_SOUTHPARK_128x64
-
-![Alt Text](https://i.imgur.com/FsIBBh7.png)
-
-L1_SPONGEBOBDOLPHIN_128x64
-
-![Alt Text](https://i.imgur.com/KbkfmF7.png)
-
-L1_SPONGEBOBXD_128x64
-
-![Alt Text](https://i.imgur.com/7eTYehx.png)
+![TROLL](https://i.imgur.com/YfsVYLU.gif)
 
