@@ -65,7 +65,7 @@ BMO
 ![BMO_happy](https://i.imgur.com/4nGnqWW.gif)
 ![BMO_hmm](https://i.imgur.com/khmcf6f.gif)
 ![BMO_oo](https://i.imgur.com/B7P99Wq.gif)
-![BMO_hng](https://i.imgur.com/iZMzqVw.gif)
+![BMO_hng](https://i.imgur.com/Ic6sUyn.png)
 
 ![BMO_angy](https://i.imgur.com/QPF5pPL.gif)
 ![BMO_smile](https://i.imgur.com/cxDRWIK.gif)
