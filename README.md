@@ -74,10 +74,10 @@ BMO
 
 POKEMON
 
-![PKMNWALK](https://i.imgur.com/CVrFkBm.gif)
+![PKMNWALK](https://i.imgur.com/OUe4UTe.gif)
 ![SMEARGLE](https://i.imgur.com/86jWmmq.gif)
-![PIKACHU](https://i.imgur.com/XgZm5Ox.gif)
-![HAUNTER](https://i.imgur.com/Rg6WNZ0.gif)
+![PIKACHU](https://i.imgur.com/kMH4HC8.gif)
+![HAUNTER](https://i.imgur.com/MhcFVl5.gif)
 
 
 VA-11 HALL-A
@@ -94,7 +94,7 @@ OTHER/MISC
 
 ![ERROR_INV](https://i.imgur.com/Wd31oEL.gif)
 ![SPACEINV_INV](https://i.imgur.com/H6Qn4oB.gif)
-![NES](https://i.imgur.com/7lMPOar.gif)
+![NES](https://i.imgur.com/UmzZwYx.png)
 ![BURNS_INV](https://i.imgur.com/D7odGzK.gif)
 
 ![MOONINITE](https://i.imgur.com/947SNci.gif)
