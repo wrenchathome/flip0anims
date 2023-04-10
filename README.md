@@ -89,7 +89,7 @@ OTHER/MISC
 
 ![ERROR](https://i.imgur.com/0tEtQ2L.gif)
 ![SPACEINV](https://i.imgur.com/ArbZfQG.gif)
-![MASTERSYS](https://i.imgur.com/4VZrGTk.gif)
+![MASTERSYS](https://i.imgur.com/WgKcWuX.png)
 ![BURNS](https://i.imgur.com/uuB1i0x.gif)
 
 ![ERROR_INV](https://i.imgur.com/Wd31oEL.gif)
