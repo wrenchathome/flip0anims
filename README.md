@@ -16,6 +16,7 @@ FLIPPER
 ![FlipClap](https://i.imgur.com/066WMqu.gif)
 ![F0Pattern](https://i.imgur.com/iHQHwRZ.gif)
 ![Flippah](https://i.imgur.com/MPQPLce.gif)
+
 ![Floopa](https://cdn.discordapp.com/attachments/875375003061866518/1105626867962237008/ezgif.com-video-to-gif.gif)
 ![FlippaZero](https://cdn.discordapp.com/attachments/875375003061866518/1105151763696341033/Untitled_Artwork.gif)
 
