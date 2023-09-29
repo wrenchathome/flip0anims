@@ -17,9 +17,9 @@ FLIPPER
 ![F0Pattern](https://i.imgur.com/iHQHwRZ.gif)
 ![Flippah](https://i.imgur.com/MPQPLce.gif)
 
-![Floopa](https://cdn.discordapp.com/attachments/875375003061866518/1105626867962237008/ezgif.com-video-to-gif.gif)
-![FlippaZero](https://cdn.discordapp.com/attachments/875375003061866518/1105151763696341033/Untitled_Artwork.gif)
-![WhereProjector](https://i.imgur.com/5gjcx2K.png)
+![Floopa](https://i.imgur.com/u4MtRSx.gif)
+![FlippaZero](https://i.imgur.com/Z2GpAhy.gif)
+![WhereProjector](https://i.imgur.com/sfjXlx1.png)
 
 WATCH_DOGS
 
